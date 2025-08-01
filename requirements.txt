@@ -1,0 +1,17 @@
+pyTelegramBotAPI
+aiohttp
+flask
+google-generativeai
+python-telegram-bot
+requests
+aiofiles
+gtts
+langdetect
+yt-dlp
+pyrogram
+tgcrypto
+FakeXYZ
+Babel
+pycountry
+beautifulsoup4
+user-agent
